@@ -825,7 +825,7 @@ transition: all 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
 }
 .pay-container{
     position: sticky;
-    bottom: 0;
+    bottom: 43px;
     background: var(--white);
   padding-inline: 24px;
     z-index: 13;
